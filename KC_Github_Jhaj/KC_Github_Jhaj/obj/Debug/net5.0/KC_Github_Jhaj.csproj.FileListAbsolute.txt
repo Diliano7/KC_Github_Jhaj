@@ -1,0 +1,16 @@
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\bin\Debug\net5.0\KC_Github_Jhaj.exe
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\bin\Debug\net5.0\KC_Github_Jhaj.deps.json
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\bin\Debug\net5.0\KC_Github_Jhaj.runtimeconfig.json
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\bin\Debug\net5.0\KC_Github_Jhaj.runtimeconfig.dev.json
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\bin\Debug\net5.0\KC_Github_Jhaj.dll
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\bin\Debug\net5.0\ref\KC_Github_Jhaj.dll
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\bin\Debug\net5.0\KC_Github_Jhaj.pdb
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\obj\Debug\net5.0\KC_Github_Jhaj.csproj.AssemblyReference.cache
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\obj\Debug\net5.0\KC_Github_Jhaj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\obj\Debug\net5.0\KC_Github_Jhaj.AssemblyInfoInputs.cache
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\obj\Debug\net5.0\KC_Github_Jhaj.AssemblyInfo.cs
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\obj\Debug\net5.0\KC_Github_Jhaj.csproj.CoreCompileInputs.cache
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\obj\Debug\net5.0\KC_Github_Jhaj.dll
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\obj\Debug\net5.0\ref\KC_Github_Jhaj.dll
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\obj\Debug\net5.0\KC_Github_Jhaj.pdb
+C:\Users\dilij\OneDrive\Schule\Dokumente\Desktop\KC_Github_Jhaj\KC_Github_Jhaj\obj\Debug\net5.0\KC_Github_Jhaj.genruntimeconfig.cache
